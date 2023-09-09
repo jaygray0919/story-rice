@@ -1,3 +1,0 @@
-
-__index.html
-has extra examples pages
